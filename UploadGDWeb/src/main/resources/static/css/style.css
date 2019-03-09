@@ -1,0 +1,32 @@
+body {
+	background-color: #ecec68
+}
+.container {
+	margin: 0;
+	background-color: #f3d6bfa8;
+	height: 100%;
+}
+input.tailen{
+	margin-top: 30px;
+	margin-left: -21px;
+	background-color: #5EA93D;
+	border: none;
+
+}
+input.tailen:hover {
+	background-color: green;
+	transition: 1s all;
+}
+.anhUpload {
+		margin-top: 30px;
+		margin-left: 20%;
+		z-index: 100;
+}
+.weltext {
+	font-size: 45px;
+	color: blue;
+	font-weight: 700;
+}
+td {
+	color: blue;
+}
